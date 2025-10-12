@@ -58,9 +58,6 @@
   color: black;
 }
 
-.header__link_active {
-  text-decoration: underline;
-}
 
 .header__address {
   justify-self: start;
